@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	padding: 0;
-	background: url("./images/blue.jpg") no-repeat;
+	background-color: #23519b;
 	background-size: cover;
 }
 .box{
@@ -20,7 +20,7 @@ body{
 	height: 200px;
 }
 .box h1{
-     font-size: 40px;
+     font-size: 35px;
      letter-spacing: 1px;
      font-weight: 100;
 }
