@@ -1,10 +1,11 @@
 body{
 	margin: 0;
 	padding: 0;
-	background: url("./images/city.jpg") no-repeat;
+	background-color: #23519b;
 	background-size: cover;
 }
-.box{
+
+.box_head{
 	width: 450px;
 	background: rgba(0,0,0,0.4);
 	padding: 40px;
@@ -14,39 +15,68 @@ body{
 	color: white;
 	font-family: 'Century Gothic',sans-serif;
 }
+
+
+.box_proj{
+	width: 450px;
+	background: rgba(0,0,0,0.0);
+	padding: 0px;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+	color: black;
+	font-family: 'Century Gothic',sans-serif;
+}
+
+
+.box_proj li{
+	display: inline-block;
+	margin 6px;
+	list-style: none;
+}
+
+
 .box-img{
 	border-radius: 50%
 	width: 200px;
 	height: 200px;
 }
-.box h1{
-     font-size: 40px;
-     letter-spacing: 4px;
+
+.box_head h1{
+     font-size: 35px;
+     letter-spacing: 1px;
      font-weight: 100;
 }
-.box h5{
+
+.box_head h5{
      font-size: 25px;
-     letter-spacing: 3px;
+     letter-spacing: 2px;
      font-weight: 100;
 }
-.box p{
+
+.box_head p{
      text-align: justify;
 }
+
+
 ul{
 	margin: 0;
 	padding: 0;
 }
-.box li{
+
+.box_head li{
 	display: inline-block;
 	margin 6px;
 	list-style: none;
 }
-.box li a{
+
+.box_head li a{
 	color: white;
 	text-decoration: none;
 	font-size: 60px;
 	transition: all ease-in-out 250ms;
 }
-.box li a:hover{
+
+.box_head li a:hover{
 	color: #b9b9b9;
 }

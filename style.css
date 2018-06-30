@@ -4,7 +4,14 @@ body{
 	background-color: #23519b;
 	background-size: cover;
 }
-.box{
+
+
+table{
+	border-spacing: 15px;
+}	
+
+
+.box_head{
 	width: 450px;
 	background: rgba(0,0,0,0.4);
 	padding: 40px;
@@ -14,39 +21,58 @@ body{
 	color: white;
 	font-family: 'Century Gothic',sans-serif;
 }
+
+
 .box-img{
 	border-radius: 50%
 	width: 200px;
 	height: 200px;
 }
-.box h1{
+
+.box-thumb{
+	border-radius: 50%
+	width: 175px;
+	height: 145px;
+}
+
+
+.box_head h1{
      font-size: 35px;
      letter-spacing: 1px;
      font-weight: 100;
 }
-.box h5{
+
+.box_head h5{
      font-size: 25px;
      letter-spacing: 2px;
      font-weight: 100;
 }
-.box p{
-     text-align: justify;
+
+.box_head p{
+     text-align: center;
+     font-size: 20px;
 }
+
+
 ul{
 	margin: 0;
 	padding: 0;
 }
-.box li{
+
+
+.box_head li{
 	display: inline-block;
 	margin 6px;
 	list-style: none;
 }
-.box li a{
+
+.box_head li a{
 	color: white;
 	text-decoration: none;
 	font-size: 60px;
 	transition: all ease-in-out 250ms;
 }
-.box li a:hover{
+
+.box_head li a:hover{
 	color: #b9b9b9;
 }
