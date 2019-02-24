@@ -7,7 +7,7 @@ body{
 
 
 table{
-	border-spacing: 15px;
+	border-spacing: 1px;
 }	
 
 
@@ -87,39 +87,33 @@ ul{
 
 
 .lab_head{
-        width: 500px;
-        background: rgba(0,0,0,0.0);
-        text-align: center;
-        margin: auto;
-        color: white;
-	font-size: 20px;
-        font-family: 'Century Gothic',sans-serif;
-}
-
-
-.lab_head h6{
-     font-size: 20px;
-     letter-spacing: 1px;
-     font-weight: 100;
+       width: 800px;
+       background: rgba(0,0,0,0.0);
+       text-align: left;
+       margin: auto;
+       color: white;
+       font-size: 18px;
+       font-family: 'Century Gothic',sans-serif;
 }
 
 
 .lab_head p{
-      text-align: center;
-      font-size: 20px;
+    margin 12 px;
+    text-align: left;
+      font-size: 18px;
  }
 
 .lab_head li{
-    display: inline-block;
-    margin 6px;
+    margin 12px;
     letter-spacing: 1px;
-    list-style: none;
+    list-style-position: inside;
 }
+
 
 .lab_head li a{
          color: white;
          text-decoration: none;
-         font-size: 20px;
+         font-size: 18px;
 	 letter-spacing: 1px
          transition: all ease-in-out 250ms;
  }
@@ -129,3 +123,12 @@ ul{
 
  }
 
+39.box_head h5{
+     font-size: 20px;
+     letter-spacing: 1px;
+     text-align: left;
+}
+
+
+
+ 
