@@ -3,13 +3,48 @@
 
 <channel>
   <title>kablab</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  
+  <link>https://kabush.github.io/kablab/kablab.html</link>
+
+  <description>Join Keith A. Bush as he covers topics related to his lab's exploration of human neuroscience.</description>
+
+  <copyright>Keith A. Bush</copyright>
+
+  <language>en</language>
+
+  <lastBuildDate>Day, 01 Month 2019 21:18:00 </lastBuildDate>
+  <pubDate>Day, 01 Month 2019 21:18:00 </pubDate>
+
+  <itunes:subtitle>Topics in Human Neuroscience</itunes:subtitle>
+
+  <itunes:summary>Join Keith A. Bush as he covers topics related to his lab's exploration of human neuroscience.</itunes:summary>
+
+  <itunes:category text="Science &amp; Medicine" />
+  <itunes:category text="Education" />
+
+  <itunes:keywords>neuroscience,fMRI,machine learning,open science </itunes:keywords>
+
+  <itunes:author>Keith A. Bush</itunes:author>
+
+  <itunes:owner>
+
+    <itunes:email>kabush@gmail.com</itunes:email>
+    <itunes:name>Keith A. Bush</itunes:name>
+  
+  </itunes:owner>
+
+  <itunes:image href="https://kabush.github.io/kablab/podcast/images/artwork.jpg">
+
+    <itunes:explicit>no</itunes:explicit>
+
+  
   <item>
     <title>RSS Tutorial</title>
     <link>https://www.w3schools.com/xml/xml_rss.asp</link>
     <description>New RSS tutorial on W3Schools</description>
   </item>
+
+ 
   <item>
     <title>XML Tutorial</title>
     <link>https://www.w3schools.com/xml</link>
