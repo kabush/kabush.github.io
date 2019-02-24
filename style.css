@@ -117,11 +117,11 @@ ul{
 }
 
 .lab_head li a{
-         color: white;
-         text-decoration: none;
-         font-size: 20px;
-	 letter-spacing: 1px
-         transition: all ease-in-out 250ms;
+    color: #ADD8E6; 
+    text-decoration: none;
+    font-size: 20px;
+    letter-spacing: 1px;
+    transition: all ease-in-out 250ms;
  }
 
  .lab_head li a:hover{
